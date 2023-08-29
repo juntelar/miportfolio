@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(112, 109, 109);
+}
+#nombre{
+    color: white; 
+    background-color: blue;
+    width: fit-content;
+}
+#redes{
+    color: white;
+    background-color: purple;
+    width:fit-content
+}
+
+.white{
+    color: white;
+}
+
+.abc{
+    font-style: oblique;
+    color: black;
+}
+.red{
+    color:rgb(192, 2, 2)
+}
